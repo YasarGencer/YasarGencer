@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**YasarGencer/YasarGencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GAME DEVELOPER
 
-Here are some ideas to get you started:
+## My Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasarGencer)](https://github.com/YasarGencer/github-readme-stats)
+
+### Who Am I
+I am currently studying Computer Engineering. I am a game developper and designer since 2020. I have worked on various projects in the past currently i work part time on a big project with my team.
+
+### My Links
+[PORTFOLIO WEBSITE](https://yasargencer.github.io "Game Website")
+[ITCH.IO](https://benyasar.itch.io "Itch.io")
+[LINKEDIN](https://www.linkedin.com/in/yasargencer/ "LınkedIn")
+[PLAY STORE](https://play.google.com/store/apps/dev?id=8567089145193331467 "Play Store")
+
