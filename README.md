@@ -1,6 +1,6 @@
 <h1 align="center">Yasar Gencer</h1>
 
-<h2 align="center">GAME DEV / C# DEV</h1>
+<h2 align="center">GAME DEV / C# DEV</h2>
 
 <h1 align="center">My Stats</h1>
 <p align="center">
@@ -13,7 +13,7 @@
 
 <h1 align="center">Who Am I?</h1>
 
-I am currently studying Computer Engineering. I am a game developper and designer since 2020. I have worked on various projects in the past currently i work part time on a big project with my team.
+    I am currently studying Computer Engineering. I am a game developper and designer since 2020. I have worked on various projects in the past currently i work part time on a big project with my team.
 
 <h1 align="center">My Links</h1>
 
